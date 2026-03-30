@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/ryan/git/blog/blog",
+	"sourceRoot": "/Users/ryan/git/blog",
 	"sources": [
 		"themes/HelloFriend/assets/scss/main.scss",
 		"themes/HelloFriend/assets/scss/_normalize.scss",
