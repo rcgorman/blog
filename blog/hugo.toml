@@ -1,0 +1,5 @@
+baseURL = 'https://rcgorman.github.io/blog'
+locale = 'en-us'
+title = 'gormantech.com'
+paginate = '5'
+theme = 'HelloFriend'
